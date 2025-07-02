@@ -1,6 +1,3 @@
-# Use a Pre-trained Image Classifier to Identify Dog Breeds
-
-This project was part of the [AI-Programming with Python Nanodregree by Udacity](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
 
 ### Principal Objectives
 
@@ -12,4 +9,4 @@ This project was part of the [AI-Programming with Python Nanodregree by Udacity]
 
 4. Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms take to run.
 
-![Dog on the internet](https://i.imgur.com/NVI817R.jpeg)
+
