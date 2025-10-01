@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# */AIPND-revision/intropyproject-classify-pet-images/check_images.py
-#
-# TODO 0: Add your information below for Programmer & Date Created.                                                                             
-# PROGRAMMER: Annika Lisa Lang
-# DATE CREATED: 15.06.2020                                 
+# */AIPND-revision/intropyproject-classify-pet-images/check_images.py                              
 # REVISED DATE: 
 # PURPOSE: Classifies pet images using a pretrained CNN model, compares these
 #          classifications to the true identity of the pets in the images, and
